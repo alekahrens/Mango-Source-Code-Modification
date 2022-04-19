@@ -1,0 +1,1 @@
+Optimize the speed at which reports are generated. Currently, the functionality to generate reports for a list of sensors exists, but takes a significant amount of time. This report is generated through querying the Derby database with SQL. 
