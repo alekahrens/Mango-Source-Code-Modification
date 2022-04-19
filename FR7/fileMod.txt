@@ -1,0 +1,5 @@
+ReportPointVO.java
+  -Added in the new objects
+  
+ ReportPointInfo.java
+  -Added in the new objects
