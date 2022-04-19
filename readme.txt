@@ -1,0 +1,2 @@
+We are using the github to only upload the modified files to it. There are to many files to upload to preform
+a massive upload. So each member will be uploading the files that they modified to make the features work.
