@@ -1,0 +1,1 @@
+This feature will generate more report charts for each sensor. Currently, in Mango, only one chart is generated when the report is generated. The proposed feature will add reference lines and allow the user to add descriptive labels for the X and Y axes. It will also generate a scatter plot.
