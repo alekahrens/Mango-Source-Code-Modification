@@ -136,7 +136,7 @@ public class ReportPointInfo {
     }
 
     public void setYAxisTitle(String yAxisTitle){
-        this.yAxisTitle = yAxisTitle
+        this.yAxisTitle = yAxisTitle;
     }
 
     public int getYReferenceLine(){

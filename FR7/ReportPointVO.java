@@ -49,15 +49,15 @@ public class ReportPointVO implements Serializable {
         this.scatterPlot = scatterPlot;
     }
 
-    public string getChartTile(){
-        reutrn chartTitle;
+    public String getChartTile(){
+        return chartTitle;
     }
 
     public void setChartTitle(String chartTitle){
         this.chartTitle = chartTitle;
     }
 
-    public string getXAxisTitle(){
+    public String getXAxisTitle(){
         return xAxisTitle;
     }
 
@@ -65,12 +65,12 @@ public class ReportPointVO implements Serializable {
         this.xAxisTitle = xAxisTitle;
     }
 
-    public string getYAxisTitle(){
+    public String getYAxisTitle(){
         return yAxisTitle;
     }
 
     public void setYAxisTitle(String yAxisTitle){
-        this.yAxisTitle = yAxisTitle
+        this.yAxisTitle = yAxisTitle;
     }
 
     public int getYReferenceLine(){
@@ -78,7 +78,7 @@ public class ReportPointVO implements Serializable {
     }
 
     public void setYReferenceLine(int yReferenceLine){
-        this.yReferenceLine = yReferenceLine
+        this.yReferenceLine = yReferenceLine;
     }
 
     //
